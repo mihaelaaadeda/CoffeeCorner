@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A3716D</color>
+    <color name="colorPrimaryDark">#202020</color>
+    <color name="colorAccent">#DFBCBA</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorPrimaryText">#A3716D</color>
+    <color name="colorSecondaryText">#202020</color>
+
+    <color name="colorSnackBarSuccess">#4CAF50</color>
+    <color name="colorSnackBarError">#F44336</color>
+</resources>

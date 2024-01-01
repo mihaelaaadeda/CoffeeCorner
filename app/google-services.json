@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788908563204",
+    "project_id": "coffee-corner-ce065",
+    "storage_bucket": "coffee-corner-ce065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788908563204:android:0cfbdcfa6a4b41ca8b8e51",
+        "android_client_info": {
+          "package_name": "com.example.coffeecorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74mUlylWEeu4KchMvKCfOyFzHMoFFLSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
